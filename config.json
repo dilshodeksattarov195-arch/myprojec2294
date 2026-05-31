@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdync",
+        "uuid": 8964952,
+        "checksum": "ufxx5d"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
